@@ -1,0 +1,2 @@
+La elaboracion de este crud la realize mezclando mi conocimiento en programacion junto con una investigacion en internet
+y apoyandome de guias tanto de bootstrap, express, y react
